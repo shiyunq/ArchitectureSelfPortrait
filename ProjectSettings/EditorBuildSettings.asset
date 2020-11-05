@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main/Initialization.unity
+    guid: dfff096bb64d4694ea31992316f80991
+  - enabled: 1
+    path: Assets/ColorScenes/ColorInitialization.unity
+    guid: 7f465bfedeed9194e9143cc3012faebf
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel1.unity
+    guid: 098dffa5c4addbe45bd97262b5dbbfe7
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel2.unity
+    guid: 44128df7ddf0b55468438052013635d8
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel3.unity
+    guid: c17c3946c996e9f48bef6d39827b2b3c
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel4.unity
+    guid: a3af871b15762b3479383d9e98319d34
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel5.unity
+    guid: 8e7333ce6c97ca7408f93adf807e6bc4
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel6.unity
+    guid: 8ea8cb77a80fdce4990e8d3d3cd0487e
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel7.unity
+    guid: f3a9cb7625341fe448287d255054c2c6
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel8.unity
+    guid: 75e8f63e2baf9764e92a81db2d3dd8c0
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel9.unity
+    guid: 369168d0917a45448aaa54ab956bfb18
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel10.unity
+    guid: fb804ef97bb5e6c4383efe8b46709b09
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel11.unity
+    guid: ee410cd3543ba194c996de9d770d7850
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel13.unity
+    guid: 8d948214399705341b998583ca36027b
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel12.unity
+    guid: 3967428ea4e44b4478a10ad1defe1d7a
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel14.unity
+    guid: a47efe62c8fc7c5428303a08f21676ae
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel15.unity
+    guid: 3c54fdf4a63f82148995727da025c2a1
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel16.unity
+    guid: df0a2c22a0fee3d45a4c125cfcd506c2
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel17.unity
+    guid: f3c42681a18ab374799f012bdba149fe
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel18.unity
+    guid: e815da961e651e74bb0fe4b298fe8773
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel19.unity
+    guid: 5d7c849b63517464385e5bb2d0007722
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel20.unity
+    guid: 671c12f6b7ff20c479f4ac5b3d8c52d8
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel21.unity
+    guid: c290e2cd7b3f96844add962021cc84b6
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel22.unity
+    guid: 4f0516827c13fd24bb1687d404822e1d
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel23.unity
+    guid: 917c9dd4973e59b4886f42c6031476f7
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel24.unity
+    guid: 95a225e0e92eb7443ada263ee405e782
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel25.unity
+    guid: 85173549fe305b943bfdd7b238d4ca1c
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel26.unity
+    guid: c01cc5f3bdbfab840a234b16c2a6cfbb
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel27.unity
+    guid: 618035bf35b851c4eb96885c00fdbde6
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel28.unity
+    guid: a87905d589d7cb94a8d339f63d241aa9
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel29.unity
+    guid: e0c7307a60240534c89fbdfad4cb611c
+  - enabled: 1
+    path: Assets/ColorScenes/ColorLevel30.unity
+    guid: b2c93b529ea37aa4bbcd3df56d672a41
+  - enabled: 1
+    path: Assets/ColorScenes/ColorScoreBoard 1.unity
+    guid: e0b6a1ca2c537b44c8a8f6a515a0292f
+  - enabled: 1
+    path: Assets/ColorScenes/ColorScoreBoard 2.unity
+    guid: 15b1200de04878e4f856728a4ae858ef
+  - enabled: 1
+    path: Assets/ColorScenes/ColorScoreBoard 3.unity
+    guid: 1915a4fe51a07ed49a5f9c278f6d0145
+  - enabled: 1
+    path: Assets/SensorScenes/CameraSensor.unity
+    guid: 677e848c2699038469452530d50ad385
+  - enabled: 1
+    path: Assets/SensorScenes/GenderAgeResult.unity
+    guid: 20c04e96ff43777459071e15512cd729
+  - enabled: 1
+    path: Assets/SensorScenes/ColorPreference.unity
+    guid: d84a5f3b6424821468204307c7c432b4
+  - enabled: 1
+    path: Assets/SensorScenes/PreferenceResult.unity
+    guid: c921b65161daee3438273249da63f60c
+  - enabled: 1
+    path: Assets/SensorScenes/MotionSensor.unity
+    guid: d948ff225dea3e6408318874817f305b
+  - enabled: 1
+    path: Assets/Main/Main.unity
+    guid: 022802d3e97f3eb46a969e3caa2727e8
+  - enabled: 1
+    path: Assets/Main/MainHelp.unity
+    guid: 647db03fb8b043c4fb6662483554bec8
+  - enabled: 1
+    path: Assets/Main/Entrance.unity
+    guid: 2351b4c098d614c4c9e4f62124f57e68
+  - enabled: 1
+    path: Assets/Main/SelfieStart.unity
+    guid: b0b1ec654c1f9b34faeaa472d9d51c3e
+  - enabled: 1
+    path: Assets/Main/ClosetStart.unity
+    guid: 998e00c1d7c2ae246bf216d95333a095
+  - enabled: 1
+    path: Assets/Main/ClosetStart2.unity
+    guid: 507c9068d43cd5248bb4837dfa0d5d26
+  - enabled: 1
+    path: Assets/SensorScenes/PreferenceResult2.unity
+    guid: 8010f38bb4456f842a3320737c9884f2
+  - enabled: 1
+    path: Assets/Main/PreferenceHelp.unity
+    guid: aeb641077ed7fb049955d254df014aef
+  - enabled: 1
+    path: Assets/Main/HeightEnd.unity
+    guid: 38e4e89989f3ff44e95bb4225bf1e05a
+  - enabled: 1
+    path: Assets/Main/HeightStart.unity
+    guid: bc9f18cc782366741aae18178e728a60
+  - enabled: 1
+    path: Assets/Main/HeightStart1.unity
+    guid: 39c4607bd4ef924458f1856966ec4b9c
+  - enabled: 1
+    path: Assets/Main/HeightStart2.unity
+    guid: 7c64377ceb611574e89d4d87fca66bc2
+  - enabled: 1
+    path: Assets/Main/ColorHelp.unity
+    guid: f1907ed3a703b314e971676575d81b84
+  - enabled: 1
+    path: Assets/Main/HeightInput.unity
+    guid: 656e4a5fd83adf0478f62566810eac63
+  - enabled: 1
+    path: Assets/Main/Congrats.unity
+    guid: b818040fa23f4f34fa2bfdb1ee0234d5
+  m_configObjects: {}
